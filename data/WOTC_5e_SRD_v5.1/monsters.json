@@ -15917,6 +15917,7 @@
         "perception": 6,
         "persuasion": 5,
         "stealth": 4,
+        "sleight_of_hand": 4,
         "damage_vulnerabilities": "",
         "damage_resistances": "",
         "damage_immunities": "",
